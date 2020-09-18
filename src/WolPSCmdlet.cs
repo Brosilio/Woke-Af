@@ -8,7 +8,7 @@ using System.Net.Sockets;
 
 namespace Woke_Af
 {
-	[Cmdlet(VerbsCommunications.Send,"Wol")]
+	[Cmdlet(VerbsCommunications.Send, "Wol")]
 	[OutputType(typeof(string))]
 	public class WolPSCmdlet : PSCmdlet
 	{
