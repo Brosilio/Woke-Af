@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Woke-Af": {
+      "commandName": "Executable",
+      "executablePath": "powershell"
+    }
+  }
+}
